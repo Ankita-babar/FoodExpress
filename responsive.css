@@ -1,0 +1,56 @@
+@media(max-width:992px){
+
+    .hero{
+        text-align:center;
+    }
+
+    .hero-title{
+        font-size:42px;
+    }
+
+    .hero-img{
+        margin-top:30px;
+    }
+}
+
+@media(max-width:768px){
+
+    .hero-title{
+        font-size:34px;
+    }
+
+    .section-title{
+        font-size:28px;
+    }
+
+    .offer-box{
+        margin-bottom:20px;
+    }
+}
+
+@media(max-width:576px){
+
+    .hero{
+        padding:50px 0;
+    }
+
+    .hero-title{
+        font-size:28px;
+    }
+
+    .hero-text{
+        font-size:16px;
+    }
+
+    .category-card{
+        padding:25px;
+    }
+
+    .offer-box{
+        padding:30px;
+    }
+
+    .offer-box h3{
+        font-size:28px;
+    }
+}
