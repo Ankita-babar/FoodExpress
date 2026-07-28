@@ -110,7 +110,7 @@ This project helped in understanding:
 
 ## 📸 Project Demo
 
-GitHub Repository: (https://github.com/Ankita-babar/FoodExpress)
+Live demo: https://ankita-babar.github.io/FoodExpress/
 
 ---
 
